@@ -12,4 +12,8 @@ conda env with python 3.8
 - To install Django `pip install Django`
 - To create django project `django-admin startproject droji`
 
+## github
+
+- To init droji as a git repository `git init`
+
 ## How to intergrate Django with legacy database
